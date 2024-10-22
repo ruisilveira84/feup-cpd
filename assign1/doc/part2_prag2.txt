@@ -1,0 +1,586 @@
+600 SIZE
+
+1st
+
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 600
+Time: 0.1690510000 seconds
+Result matrix: 
+180300 180300 180300 180300 180300 180300 180300 180300 180300 180300 
+L1 DCM: 8056179 
+L2 DCM: 32408174 
+FLOPS: 54000001 
+
+
+2nd
+
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 600
+Time: 0.1759380000 seconds
+Result matrix: 
+180300 180300 180300 180300 180300 180300 180300 180300 180300 180300 
+L1 DCM: 8038096 
+L2 DCM: 32442248 
+FLOPS: 54000001 
+
+
+3rd
+
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 600
+Time: 0.1678250000 seconds
+Result matrix: 
+180300 180300 180300 180300 180300 180300 180300 180300 180300 180300 
+L1 DCM: 8042573 
+L2 DCM: 32432240 
+FLOPS: 54000001 
+
+
+
+1000 SIZE
+
+1st
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 1000
+Time: 0.4916010000 seconds
+Result matrix: 
+500500 500500 500500 500500 500500 500500 500500 500500 500500 500500 
+L1 DCM: 28862691 
+L2 DCM: 110827606 
+FLOPS: 250000001 
+
+
+2st
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 1000
+Time: 0.4837600000 seconds
+Result matrix: 
+500500 500500 500500 500500 500500 500500 500500 500500 500500 500500 
+L1 DCM: 28791199 
+L2 DCM: 110957015 
+FLOPS: 250000001 
+
+
+3st
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 1000
+Time: 0.4691730000 seconds
+Result matrix: 
+500500 500500 500500 500500 500500 500500 500500 500500 500500 500500 
+L1 DCM: 28794456 
+L2 DCM: 111273897 
+FLOPS: 250000001 
+
+
+1400 SIZE
+
+1st
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 1400
+Time: 1.3515340000 seconds
+Result matrix: 
+980700 980700 980700 980700 980700 980700 980700 980700 980700 980700 
+L1 DCM: 68973842 
+L2 DCM: 229264061 
+FLOPS: 686000001 
+
+2nd
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 1400
+Time: 1.3978820000 seconds
+Result matrix: 
+980700 980700 980700 980700 980700 980700 980700 980700 980700 980700 
+L1 DCM: 68540662 
+L2 DCM: 228001345 
+FLOPS: 686000001 
+
+3rd
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 1400
+Time: 1.7491830000 seconds
+Result matrix: 
+980700 980700 980700 980700 980700 980700 980700 980700 980700 980700 
+L1 DCM: 68767186 
+L2 DCM: 219391602 
+FLOPS: 686000001
+
+
+1800 SIZE
+
+1st
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 1800
+Time: 2.9054440000 seconds
+Result matrix: 
+1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 
+L1 DCM: 133456579 
+L2 DCM: 365959828 
+FLOPS: 1458000001 
+
+2nd
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 1800
+Time: 2.9373610000 seconds
+Result matrix: 
+1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 
+L1 DCM: 133314167 
+L2 DCM: 365759075 
+FLOPS: 1458000001 
+
+
+
+3rd
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 1800
+Time: 2.9284940000 seconds
+Result matrix: 
+1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 
+L1 DCM: 133194437 
+L2 DCM: 366758249 
+FLOPS: 1458000001 
+
+
+2200 SIZE
+
+1st
+
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 2200
+Time: 5.4346260000 seconds
+Result matrix: 
+2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 
+L1 DCM: 231917811 
+L2 DCM: 584160265 
+FLOPS: 2662000001 
+
+2nd
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 2200
+Time: 5.3912810000 seconds
+Result matrix: 
+2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 
+L1 DCM: 231901594 
+L2 DCM: 580815604 
+FLOPS: 2662000001 
+
+3rd
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 2200
+Time: 5.3813280000 seconds
+Result matrix: 
+2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 
+L1 DCM: 231270510 
+L2 DCM: 581016514 
+FLOPS: 2662000001 
+
+
+
+2600 SIZE
+
+1st
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 2600
+Time: 8.6408930000 seconds
+Result matrix: 
+3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 
+L1 DCM: 364676925 
+L2 DCM: 867354824 
+FLOPS: 4394000001 
+
+2nd
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 2600
+Time: 8.6989540000 seconds
+Result matrix: 
+3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 
+L1 DCM: 365105134 
+L2 DCM: 868190022 
+FLOPS: 4394000001 
+
+3rd
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 2600
+Time: 8.6706120000 seconds
+Result matrix: 
+3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 
+L1 DCM: 364610281 
+L2 DCM: 863901667 
+FLOPS: 4394000001
+
+
+3000 SIZE
+
+1st
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 3000
+Time: 13.1562430000 seconds
+Result matrix: 
+4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 
+L1 DCM: 541625655 
+L2 DCM: 1217589286 
+FLOPS: 6750000001 
+
+2nd
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 3000
+Time: 13.1621590000 seconds
+Result matrix: 
+4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 
+L1 DCM: 541883028 
+L2 DCM: 1209240759 
+FLOPS: 6750000001 
+
+3rd
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 3000
+Time: 13.1156170000 seconds
+Result matrix: 
+4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 
+L1 DCM: 541359849 
+L2 DCM: 1223105613 
+FLOPS: 6750000001 
+
+
+
+
+4096 SIZE
+
+1st
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 4096
+Time: 33.1114490000 seconds
+Result matrix: 
+8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 
+L1 DCM: 1231595904 
+L2 DCM: 2449041387 
+FLOPS: 17179869185 
+
+2nd
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 4096
+Time: 32.6514240000 seconds
+Result matrix: 
+8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 
+L1 DCM: 1228943732 
+L2 DCM: 2479024288 
+FLOPS: 17179869185 
+
+3rd
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 4096
+Time: 31.9814770000 seconds
+Result matrix: 
+8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 8.39066e+06 
+L1 DCM: 1228485031 
+L2 DCM: 2409902814 
+FLOPS: 17179869185 
+
+
+
+6144 SIZE
+
+1st
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 6144
+Time: 105.3687670000 seconds
+Result matrix: 
+1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 
+L1 DCM: 4219134622 
+L2 DCM: 8166239529 
+FLOPS: 57982058497 
+
+2nd
+
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 6144
+Time: 104.6240020000 seconds
+Result matrix: 
+1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 
+L1 DCM: 4194158617 
+L2 DCM: 8040058139 
+FLOPS: 57982058497 
+
+3rd
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 6144
+Time: 104.6045750000 seconds
+Result matrix: 
+1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 1.88774e+07 
+L1 DCM: 4237372095 
+L2 DCM: 8063291790 
+FLOPS: 57982058497 
+
+
+
+8192 SIZE
+
+1st
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 8192
+Time: 247.4814300000 seconds
+Result matrix: 
+3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 
+L1 DCM: 9789052582 
+L2 DCM: 16085926990 
+FLOPS: 137438953473 
+
+2nd
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 8192
+Time: 250.9810910000 seconds
+Result matrix: 
+3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 
+L1 DCM: 9772365377 
+L2 DCM: 16296191450 
+FLOPS: 137438953473 
+
+3rd
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 8192
+Time: 248.4031170000 seconds
+Result matrix: 
+3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 3.35585e+07 
+L1 DCM: 9986540336 
+L2 DCM: 16519186755 
+FLOPS: 137438953473 
+
+
+10240 SIZE
+
+1st
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 10240
+Time: 476.2936770000 seconds
+Result matrix: 
+5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 
+L1 DCM: 29068491959 
+L2 DCM: 31780314599 
+FLOPS: 268435456001 
+
+2nd
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 10240
+Time: 476.8672540000 seconds
+Result matrix: 
+5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 
+L1 DCM: 28887127056 
+L2 DCM: 32503496757 
+FLOPS: 268435456001 
+
+3rd
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+4. Line Multiplication - Pragma Option 1
+5. Line Multiplication - Pragma Option 2
+Selection?: 5
+Dimensions: lins=cols ? 10240
+Time: 478.2906130000 seconds
+Result matrix: 
+5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 5.24339e+07 
+L1 DCM: 27993390784 
+L2 DCM: 32486965777 
+FLOPS: 268435456001 
+
+
+
+
+
+
+
+
+
+

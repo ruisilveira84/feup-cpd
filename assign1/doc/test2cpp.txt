@@ -1,0 +1,277 @@
+600 SIZE
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 600
+Time: 0.110 seconds
+Result matrix: 
+180300 180300 180300 180300 180300 180300 180300 180300 180300 180300 
+L1 DCM: 27163214 
+L2 DCM: 58392327 
+FLOPS: 432000001 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 600
+Time: 0.111 seconds
+Result matrix: 
+180300 180300 180300 180300 180300 180300 180300 180300 180300 180300 
+L1 DCM: 27118255 
+L2 DCM: 57584233 
+FLOPS: 432000001 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 600
+Time: 0.112 seconds
+Result matrix: 
+180300 180300 180300 180300 180300 180300 180300 180300 180300 180300 
+L1 DCM: 27123528 
+L2 DCM: 57384957 
+FLOPS: 432000001 
+
+
+1000 SIZE
+
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 1000
+Time: 0.512 seconds
+Result matrix: 
+500500 500500 500500 500500 500500 500500 500500 500500 500500 500500 
+L1 DCM: 126394392 
+L2 DCM: 266632338 
+FLOPS: 2000000001 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 1000
+Time: 0.509 seconds
+Result matrix: 
+500500 500500 500500 500500 500500 500500 500500 500500 500500 500500 
+L1 DCM: 126237718 
+L2 DCM: 266368978 
+FLOPS: 2000000001 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 1000
+Time: 0.501 seconds
+Result matrix: 
+500500 500500 500500 500500 500500 500500 500500 500500 500500 500500 
+L1 DCM: 126234886 
+L2 DCM: 263730978 
+FLOPS: 2000000001 
+
+
+1400 SIZE
+
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 1400
+Time: 1.650 seconds
+Result matrix: 
+980700 980700 980700 980700 980700 980700 980700 980700 980700 980700 
+L1 DCM: 586540302 
+L2 DCM: 729784599 
+FLOPS: 5488000001 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 1400
+Time: 1.632 seconds
+Result matrix: 
+980700 980700 980700 980700 980700 980700 980700 980700 980700 980700 
+L1 DCM: 631581887 
+L2 DCM: 726150558 
+FLOPS: 5488000001 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 1400
+Time: 1.629 seconds
+Result matrix: 
+980700 980700 980700 980700 980700 980700 980700 980700 980700 980700 
+L1 DCM: 631616533 
+L2 DCM: 725889151 
+FLOPS: 5488000001 
+
+
+1800 SIZE
+
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 1800
+Time: 3.732 seconds
+Result matrix: 
+1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 
+L1 DCM: 1876070050 
+L2 DCM: 1488424940 
+FLOPS: 11664000001 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 1800
+Time: 3.626 seconds
+Result matrix: 
+1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 
+L1 DCM: 2188620603 
+L2 DCM: 1469261366 
+FLOPS: 11664000001 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 1800
+Time: 3.632 seconds
+Result matrix: 
+1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 1.6209e+06 
+L1 DCM: 2188550985 
+L2 DCM: 1488602904 
+FLOPS: 11664000001 
+
+
+2200 SIZE
+
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 2200
+Time: 7.545 seconds
+Result matrix: 
+2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 
+L1 DCM: 4029753644 
+L2 DCM: 2684137650 
+FLOPS: 21296000001 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 2200
+Time: 6.831 seconds
+Result matrix: 
+2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 
+L1 DCM: 4030880836 
+L2 DCM: 2713877365 
+FLOPS: 21296000001 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 2200
+Time: 6.857 seconds
+Result matrix: 
+2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 2.4211e+06 
+L1 DCM: 4031716896 
+L2 DCM: 2694293863 
+FLOPS: 21296000001 
+
+
+2600 SIZE
+
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 2600
+Time: 11.328 seconds
+Result matrix: 
+3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 
+L1 DCM: 6793527799 
+L2 DCM: 4419143074 
+FLOPS: 35152000001 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 2600
+Time: 11.412 seconds
+Result matrix: 
+3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 
+L1 DCM: 6793416932 
+L2 DCM: 4447020416 
+FLOPS: 35152000001 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 2600
+Time: 12.067 seconds
+Result matrix: 
+3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 3.3813e+06 
+L1 DCM: 6788116660 
+L2 DCM: 4411285887 
+FLOPS: 35152000001
+
+
+3000 SIZE
+
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 3000
+Time: 17.545 seconds
+Result matrix: 
+4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 
+L1 DCM: 10430742467 
+L2 DCM: 6804067467 
+FLOPS: 54000000001 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 3000
+Time: 17.496 seconds
+Result matrix: 
+4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 
+L1 DCM: 10427208839 
+L2 DCM: 6672648534 
+FLOPS: 54000000001 
+
+1. Multiplication
+2. Line Multiplication
+3. Block Multiplication
+Selection?: 2
+Dimensions: lins=cols ? 3000
+Time: 17.637 seconds
+Result matrix: 
+4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 4.5015e+06 
+L1 DCM: 10426776645 
+L2 DCM: 6869553534 
+FLOPS: 54000000001 
